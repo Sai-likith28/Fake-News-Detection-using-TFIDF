@@ -138,10 +138,11 @@ python app.py
 
 ## Screenshots
 
-![Web App Screenshot](../images/web_app_screenshot.png)
-![Confusion Matrix](../images/confusion_matrix.jpg)
-![Dataset Distribution](../images/dataset_distribution.png)
+## Screenshots
 
+![Confusion Matrix](images/confusion_matrix.png)
+![Dataset Distribution](images/dataset_distribution.png)
+![Performance Metrics](images/performance_metrics.png)
 ---
 
 ## Contributing
