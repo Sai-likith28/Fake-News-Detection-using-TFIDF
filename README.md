@@ -139,7 +139,7 @@ python app.py
 ## Screenshots
 
 ![Web App Screenshot](../images/web_app_screenshot.png)
-![Confusion Matrix](../images/confusion_matrix.png)
+![Confusion Matrix](../images/confusion_matrix.jpg)
 ![Dataset Distribution](../images/dataset_distribution.png)
 
 ---
