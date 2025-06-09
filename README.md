@@ -6,7 +6,7 @@ A web application that detects fake news using a machine learning model trained 
 
 ## Table of Contents
 
-- [Demo](#demo)
+
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Dataset](#dataset)
@@ -19,11 +19,7 @@ A web application that detects fake news using a machine learning model trained 
 
 ---
 
-## Demo
 
-[Add a link to a live demo if available, or screenshots below.]
-
----
 
 ## Features
 
@@ -136,25 +132,20 @@ python app.py
 
 ---
 
-## Screenshots
+
 
 ## Screenshots
-
+-Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
+-Dataset Distribution
 ![Dataset Distribution](images/dataset_distribution.png)
+-Performance Metrics
 ![Performance Metrics](images/performance_metrics.png)
 ---
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
-
----
-
-## License
-
-[MIT License](LICENSE)  
-(Or specify your license here.)
 
 ---
 
